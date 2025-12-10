@@ -141,5 +141,5 @@ window.addEventListener('load', () => {
     window.addEventListener('scroll', handleScroll, { passive: true });
     handleScroll();
   }
-});
 
+});
